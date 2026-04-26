@@ -8,6 +8,3 @@ A simple, original alarm clock built with Tkinter.
 - Cross‑platform beep sound
 - Threaded alarm loop (GUI stays responsive)
 
-## Usage
-```bash
-python alarm_clock.py
